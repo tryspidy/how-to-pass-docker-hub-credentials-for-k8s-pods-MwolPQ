@@ -1,0 +1,1 @@
+ambarishs-MacBook-Pro:gke ambarish$ kubectl create secret docker-registry private-registry-key --docker-username="devopsrecipes" --docker-password="xxxxxx" --docker-email="username@example.com" --docker-server="https://index.docker.io/v1/"secret "private-registry-key" created
